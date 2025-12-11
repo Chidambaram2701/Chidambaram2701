@@ -1,15 +1,5 @@
 ![Header](./github-header-banner.png)
-![👋 Hi, my name is Chidambaram N](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 
-<div id="toc">
-  <ul align="center" style="list-style: none">
-    <summary>
-      <h1>
-        👋 Hi, my name is Chidambaram N
-      </h1>
-    </summary>
-  </ul>
-</div>
 
 **<h3 align="left">Connect with me:</h3>** 
 <p align="left"><a href="sneelusri@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.codechef.com/users/Chidambaram N" target="_blank"><img src="https://img.shields.io/badge/Codechef-%23B92B27.svg?style=flat&&logo=Codechef&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://codeforces.com/profile/Chidambaram2701" target="_blank"><img src="https://img.shields.io/badge/Codeforces-445f9d?style=flat&logo=Codeforces&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.instagram.com/mr.crazy_sri" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.linkedin.com/in/Chidambaram Sri" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://github.com/Chidambaram2701" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a></p>
