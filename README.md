@@ -1,8 +1,15 @@
 ![Header](./imsri.png)
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://github.com/Chidambaram2701" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Chidambaram2701" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/Chidambaram Sri  " target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Chidambaram Sri  " height="30" width="40" /></a>
+<a href="https://kaggle.com/chidambaram2701" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="chidambaram2701" height="30" width="40" /></a>
+<a href="https://instagram.com/mr.carzy_sri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr.carzy_sri" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/chidambaram2701" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="chidambaram2701" height="30" width="40" /></a>
+<a href="https://leetcode.com/ChidambaramN" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ChidambaramN" height="30" width="40" /></a>
+</p>
 
-**<h3 align="left">Connect with me:</h3>** 
-<p align="left"><a href="sneelusri@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.codechef.com/users/Chidambaram N" target="_blank"><img src="https://img.shields.io/badge/Codechef-%23B92B27.svg?style=flat&&logo=Codechef&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://codeforces.com/profile/Chidambaram2701" target="_blank"><img src="https://img.shields.io/badge/Codeforces-445f9d?style=flat&logo=Codeforces&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.instagram.com/mr.crazy_sri" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.linkedin.com/in/Chidambaram Sri" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://github.com/Chidambaram2701" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
 
  **<h3 align="left">🚀 AI & Full-Stack Developer,Building intelligent and scalable applications by combining modern web technologies with practical AI. Skilled across front-end, back-end, and ML workflows, with a focus on performance and clean architecture.</h3>**
