@@ -5,7 +5,7 @@
 <p align="left"><a href="sneelusri@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.codechef.com/users/Chidambaram N" target="_blank"><img src="https://img.shields.io/badge/Codechef-%23B92B27.svg?style=flat&&logo=Codechef&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://codeforces.com/profile/Chidambaram2701" target="_blank"><img src="https://img.shields.io/badge/Codeforces-445f9d?style=flat&logo=Codeforces&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.instagram.com/mr.crazy_sri" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.linkedin.com/in/Chidambaram Sri" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://github.com/Chidambaram2701" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
 
- **<h3 align="left">🚀 Passionate fullstack web developer, creating robust and scalable web applications. Skilled in both front-end and back-end technologies, with a keen eye for user experience and performance optimization.</h3>**
+ **<h3 align="left">🚀 AI & Full-Stack Developer,Building intelligent and scalable applications by combining modern web technologies with practical AI. Skilled across front-end, back-end, and ML workflows, with a focus on performance and clean architecture.</h3>**
 
 **<h3 align="left">Rapid Fire</h3>**
 
@@ -101,3 +101,8 @@
     </td>
   </tr>
 </table>
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Chidambaram2701&bg_color=000000&color=929ba5&line=2ab247&point=8f98a3&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/ChidambaramN?theme=light&font=Noto%20Sans%20Rejang)
