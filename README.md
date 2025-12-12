@@ -12,7 +12,7 @@
 
 
 
- **<h3 align="left">🚀 AI & Full-Stack Developer,Building intelligent and scalable applications by combining modern web technologies with practical AI. Skilled across front-end, back-end, and ML workflows, with a focus on performance and clean architecture.</h3>**
+ <h3 align="left">🚀 AI & Full-Stack Developer,Building intelligent and scalable applications by combining modern web technologies with practical AI. Skilled across front-end, back-end, and ML workflows, with a focus on performance and clean architecture.</h3>
 
 **<h3 align="left">Rapid Fire</h3>**
 
