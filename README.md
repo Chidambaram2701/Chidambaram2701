@@ -110,5 +110,11 @@
 
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Chidambaram2701&bg_color=000000&color=929ba5&line=2ab247&point=8f98a3&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+<p align="center">
+  <img
+    src="https://leetcard.jacoblin.cool/ChidambaramN?theme=catppuccinMocha&font=Roboto%20Flex&ext=heatmap"
+    width="850"
+    
+  />
+</p>
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/ChidambaramN?theme=light&font=Noto%20Sans%20Rejang)
