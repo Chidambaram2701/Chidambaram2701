@@ -113,7 +113,7 @@
 <p align="center">
   <img
     src="https://leetcard.jacoblin.cool/ChidambaramN?theme=catppuccinMocha&font=Roboto%20Flex&ext=heatmap"
-    width="850"
+    width="100%"
     
   />
 </p>
