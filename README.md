@@ -99,12 +99,6 @@
         <br/>
       </div>
     </td>
-    <td valign="top" width="50%">
-      <h3>🔝 Top Contributed Repo</h3>
-      <div align="center">
-        <img src="https://github-contributor-stats.vercel.app/api?username=Chidambaram2701&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
-      </div>
-    </td>
   </tr>
 </table>
 
